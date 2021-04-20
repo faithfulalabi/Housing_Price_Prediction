@@ -6,4 +6,7 @@
 * Engineered features to removed outliers, deal with categorical and missing data.
 * Optimized Elastic Net using GridsearchCV for the best model.
 
+## Dataset Features 
+![alt text](https://github.com/faithfulalabi/Housing_Price_Prediction/blob/main/Ames_Housing_Feature_Description.txt.png?raw=true)
+
 ## Data Cleaning
