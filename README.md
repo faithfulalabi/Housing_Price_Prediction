@@ -7,6 +7,6 @@
 * Optimized Elastic Net using GridsearchCV for the best model.
 
 ## Dataset Features 
-![Here](https://github.com/faithfulalabi/Housing_Price_Prediction/blob/main/Ames_Housing_Feature_Description.txt)
+[Feature Explaination](https://github.com/faithfulalabi/Housing_Price_Prediction/blob/main/Ames_Housing_Feature_Description.txt)
 
 ## Data Cleaning
