@@ -10,6 +10,11 @@
 [Feature Explaination](https://github.com/faithfulalabi/Housing_Price_Prediction/blob/main/Ames_Housing_Feature_Description.txt)
 
 
+## Exploratory Data Analysis 
+
+The plots below show the correlation between all features and the distribution of the sales price.
+![alt text](https://github.com/faithfulalabi/Housing_Price_Prediction/blob/main/correlation_map.png?raw=true)
+![alt text](https://github.com/faithfulalabi/Housing_Price_Prediction/blob/main/sales_price_distribution.png?raw=true)
 
 ## Data Cleaning
 After getting the dataset, I cleaned it up, dealt with missing data, and dropped outliers so our data can be acceptable for our model. I made the following changes:
