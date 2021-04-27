@@ -32,3 +32,15 @@ After getting the dataset, I cleaned it up, dealt with missing data, and dropped
 * Seperated out the string and integers into 2 seperate datasets 
 * Transformed String dataset into a categorical data structure 
 * Combined both datasets back together as the final dataset
+
+## Model Building
+
+First I transformed the categorical strings into dummy variables. I then split the data into train and test sets with a test size of 10%.
+
+I scaled the data and used ElaticNet with GridSearchCV as my model because of the sparse data from the many categorical variables.
+
+I chose the RMSE because it is easy to interpret 
+
+## Model Performance
+
+* ElasticNet : RMSE = 20,486.62
